@@ -1,0 +1,12 @@
+.container{
+    height: 50px;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 2rem;
+}
+
+.container div{
+    height: 100%;
+    background-color:rgb(38, 38, 173);
+    border-radius: 2rem;
+}
